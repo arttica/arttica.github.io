@@ -1,0 +1,31 @@
+<h3>Web Development</h3>
+<h3>Web Design</h3>
+<h3>Digital and Content Marketing</h3>
+<h3>Consultancy</h3>
+<h3 class="counter-details">Code Lines</h3>
+<h3 class="counter-details">Clients Worked With</h3>
+<h3 class="counter-details">Completed Projects</h3>
+<h3 class="counter-details">Winning Awards</h3>
+<h3>Web Design and Development</h3>
+<h3>Logo, Branding and Identity</h3>
+<h3>Support and Consultancy</h3>
+<h3 class="portfolio-title">Lemenev Healthy Cuisine<span class="portfolio-category">Web Design | Marketing & SEO | Printing</span></h3>
+<h3 class="portfolio-title">Kraus USA<span class="portfolio-category">Web Design | Marketing | Content Managment</span></h3>
+<h3 class="portfolio-title">Remedy Designs<span class="portfolio-category">Web Design | Logo | Content Marketing</span></h3>
+<h3 class="portfolio-title">Tube Surveys<span class="portfolio-category">Professional TV Commercial | Video Production</span></h3>
+<h3 class="portfolio-title">The Watch Scene<span class="portfolio-category">Web Design | Marketing | Content Creation</span></h3>
+<h3 class="portfolio-title">Manhattan Wellness Group<span class="portfolio-category">Web Design | SEO and PPC | Marketing</span></h3>
+<h3 class="portfolio-title">Spandy Andy<span class="portfolio-category">Web Design | Logo & Identity</span></h3>
+<h3 class="portfolio-title">TraxNYC Diamond Jewelry Empire<span class="portfolio-category">Web Design | SEO | Content Marketing</span></h3>
+<h3 class="portfolio-title">Professional Photography<span class="portfolio-category">Photo Retouching | Editing | Restoring</span></h3>
+<h3 class="social-title">Facebook</h3>
+<h3 class="social-title">Twitter</h3>
+<h3 class="social-title">Google Plus</h3>
+<h3 class="social-title">YouTube</h3>
+<h3 class="social-title">Instagram</h3>
+<h3 class="ut-quote-name">Lemenev Healthy Cuisine</h3>
+<h3 class="ut-quote-name">Remedy Designs</h3>
+<h3 class="ut-quote-name">Manhattan Wellness Group</h3>
+<h3 class="grid-100">Our Contacts</h3>
+<h3 class="grid-100">Drop us a line</h3>
+<h3>Web Design & Development</h3>
