@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1852" height="998" viewBox="71 198 1852 998" role="img" aria-labelledby="title desc">
+  <title id="title">Arttica faceted bear logo</title>
+  <desc id="desc">Editable vector reconstruction of the original right-facing, gray low-poly bear. Transparent background. Each named polygon is an independently editable facet; no embedded raster images or fonts.</desc>
+  <g id="arttica-bear" stroke-linejoin="round" stroke-width="0.45">
+    <polygon id="far-rear-paw" fill="#d1d3d4" stroke="#d1d3d4" points="174,1175 271,1061 341,1170"/>
+    <polygon id="far-rear-leg" fill="#808285" stroke="#808285" points="205,713 316,691 421,892 174,1175 92,1029"/>
+    <polygon id="rear-upper-facet" fill="#939598" stroke="#939598" points="237,580 320,452 421,892 316,691"/>
+    <polygon id="rump-highlight" fill="#d1d3d4" stroke="#d1d3d4" points="181,665 237,580 316,691 205,713"/>
+    <polygon id="near-rear-leg" fill="#bcbdc0" stroke="#bcbdc0" points="320,452 652,243 700,797 713,930 664,1078 632,1175 493,1174 421,892"/>
+    <polygon id="near-rear-paw" fill="#d1d3d4" stroke="#d1d3d4" points="664,1078 769,1175 632,1175"/>
+    <polygon id="body" fill="#d1d3d4" stroke="#d1d3d4" points="652,243 1162,286 1118,855 700,797"/>
+    <polygon id="belly-facet" fill="#808285" stroke="#808285" points="700,797 1118,855 713,930"/>
+    <polygon id="far-front-leg" fill="#808285" stroke="#808285" points="1118,855 1291,967 1273,1101 1148,1175 1083,941"/>
+    <polygon id="far-front-paw" fill="#d1d3d4" stroke="#d1d3d4" points="1273,1101 1364,1174 1148,1175"/>
+    <polygon id="shoulder-highlight" fill="#e6e7e8" stroke="#e6e7e8" points="1162,286 1262,366 1118,855"/>
+    <polygon id="shoulder-cap" fill="#d1d3d4" stroke="#d1d3d4" points="1162,286 1306,219 1262,366"/>
+    <polygon id="upper-neck-facet" fill="#939598" stroke="#939598" points="1306,219 1467,283 1262,366"/>
+    <polygon id="near-front-leg-and-neck" fill="#bcbdc0" stroke="#bcbdc0" points="1262,366 1467,283 1484,746 1484,829 1611,961 1527,1134 1118,855"/>
+    <polygon id="near-front-paw" fill="#d1d3d4" stroke="#d1d3d4" points="1611,961 1654,1152 1510,1173 1527,1134"/>
+    <polygon id="head" fill="#d1d3d4" stroke="#d1d3d4" points="1467,283 1731,388 1712,448 1691,510 1621,729 1484,746"/>
+    <polygon id="brow-highlight" fill="#f1f1f2" stroke="#f1f1f2" points="1731,388 1762,438 1712,448"/>
+    <polygon id="upper-eye-facet" fill="#a7a9ac" stroke="#a7a9ac" points="1712,448 1794,431 1788,489 1691,510"/>
+    <polygon id="eye-facet" fill="#808285" stroke="#808285" points="1691,510 1788,489 1735,564"/>
+    <polygon id="face-highlight" fill="#f1f1f2" stroke="#f1f1f2" points="1691,510 1735,564 1788,489 1852,595 1621,729"/>
+    <polygon id="lower-muzzle" fill="#bcbdc0" stroke="#bcbdc0" points="1765,731 1902,727 1811,796 1746,759"/>
+    <polygon id="muzzle-highlight" fill="#e6e7e8" stroke="#e6e7e8" points="1833,625 1902,727 1764,731"/>
+    <polygon id="cheek" fill="#808285" stroke="#808285" points="1621,729 1852,595 1734,781"/>
+    <polygon id="mouth-detail" fill="#3c2416" stroke="#3c2416" points="1809,633 1837,617 1820,646"/>
+  </g>
+</svg>

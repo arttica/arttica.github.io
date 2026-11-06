@@ -1,0 +1,176 @@
+{
+  "sourceURL": "https://arttica.is/",
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Lemenev Healthy Cuisine",
+      "services": [
+        "Web Design",
+        "Marketing & SEO",
+        "Printing"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p1.jpg",
+      "localPath": "assets/legacy/p1.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p1.jpg",
+      "width": 1024,
+      "height": 984,
+      "selected": true
+    },
+    {
+      "id": "p2",
+      "title": "Kraus USA",
+      "services": [
+        "Web Design",
+        "Marketing",
+        "Content Managment"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p2.jpg",
+      "localPath": "assets/legacy/p2.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p2.jpg",
+      "width": 1024,
+      "height": 905,
+      "selected": true
+    },
+    {
+      "id": "p3",
+      "title": "Remedy Designs",
+      "services": [
+        "Web Design",
+        "Logo",
+        "Content Marketing"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p3.jpg",
+      "localPath": "assets/legacy/p3.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p3.jpg",
+      "width": 1024,
+      "height": 1339,
+      "selected": true
+    },
+    {
+      "id": "p4",
+      "title": "Tube Surveys",
+      "services": [
+        "Professional TV Commercial",
+        "Video Production"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/thumb/p4.jpg",
+      "localPath": "assets/legacy/p4.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "http://www.youtube.com/watch?v=uITrpnlVomw",
+      "width": 380,
+      "height": 320,
+      "selected": false
+    },
+    {
+      "id": "p5",
+      "title": "The Watch Scene",
+      "services": [
+        "Web Design",
+        "Marketing",
+        "Content Creation"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p5.jpg",
+      "localPath": "assets/legacy/p5.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p5.jpg",
+      "width": 1024,
+      "height": 1195,
+      "selected": false,
+      "qualityNote": "Source caption says The Watch Scene but source large image depicts GLASS website. Do not feature as a matched case study without clarification."
+    },
+    {
+      "id": "p6",
+      "title": "Manhattan Wellness Group",
+      "services": [
+        "Web Design",
+        "SEO and PPC",
+        "Marketing"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p6.jpg",
+      "localPath": "assets/legacy/p6.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p6.jpg",
+      "width": 1024,
+      "height": 1197,
+      "selected": false
+    },
+    {
+      "id": "p7",
+      "title": "Spandy Andy",
+      "services": [
+        "Web Design",
+        "Logo & Identity"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/thumb/p7.jpg",
+      "localPath": "assets/legacy/p7.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "http://www.youtube.com/watch?v=PXYjgHC_Ycw",
+      "width": 380,
+      "height": 320,
+      "selected": false
+    },
+    {
+      "id": "p8",
+      "title": "TraxNYC Diamond Jewelry Empire",
+      "services": [
+        "Web Design",
+        "SEO",
+        "Content Marketing"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/thumb/p8.jpg",
+      "localPath": "assets/legacy/p8.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "http://www.youtube.com/watch?v=V-usCneXkug",
+      "width": 380,
+      "height": 320,
+      "selected": false
+    },
+    {
+      "id": "p9",
+      "title": "Professional Photography",
+      "services": [
+        "Photo Retouching",
+        "Editing",
+        "Restoring"
+      ],
+      "sourceURL": "https://arttica.is/",
+      "imageSourceURL": "https://arttica.is/images/portfolio/large/p9.jpg",
+      "localPath": "assets/legacy/p9.jpg",
+      "verifiedFromSource": true,
+      "originalLink": "images/portfolio/large/p9.jpg",
+      "width": 1024,
+      "height": 979,
+      "selected": false
+    }
+  ],
+  "logo": {
+    "sourceURL": "https://arttica.is/images/logo.png",
+    "localPath": "assets/legacy/arttica-logo.png",
+    "width": 760,
+    "height": 139
+  },
+  "agencyServices": [
+    "Web Design and Development",
+    "Logo, Branding and Identity",
+    "Support and Consultancy",
+    "Digital and Content Marketing"
+  ],
+  "note": "Titles and services verbatim from current old-site HTML; no project outcomes asserted.",
+  "selectedProjectIds": [
+    "p1",
+    "p2",
+    "p3"
+  ],
+  "selectionRationale": "High-resolution, source-matched website screenshots spanning food, product commerce, and fashion; use object-position: top for wide cards."
+}

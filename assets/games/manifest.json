@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Link Happens",
+    "asset": "link-happens.webp",
+    "source_library_file_id": "libfile_a30c9535fa4881918c8567a8869e2b51",
+    "source_file_id": "file_000000006320820da009dbb63685b1c3",
+    "source_path": "/Puzzle Games/Link_Happens_Page_Header_3840x1646.png",
+    "dimensions": [
+      3840,
+      1646
+    ],
+    "crop": "none; full original image copied unchanged",
+    "recommended_display": "Preserve full 3840:1646 aspect ratio. Especially avoid cropping Round and Find Out, whose title and slogan occupy left half.",
+    "kind": "Existing project promotional header, not gameplay screenshot",
+    "release_status": "Submitted for review per user; not verified released",
+    "app_store_url": null,
+    "visually_inspected": true
+  },
+  {
+    "title": "Round and Find Out",
+    "asset": "round-and-find-out.webp",
+    "source_library_file_id": "libfile_1b6ba7d2d8288191bc6f1e29ed60828e",
+    "source_file_id": "file_00000000cfbc81f5b81735b644e1be2d",
+    "source_path": "/Puzzle Games/Round_and_Find_Out_Header_3840x1646.png",
+    "dimensions": [
+      3840,
+      1646
+    ],
+    "crop": "none; full original image copied unchanged",
+    "recommended_display": "Preserve full 3840:1646 aspect ratio. Especially avoid cropping Round and Find Out, whose title and slogan occupy left half.",
+    "kind": "Existing project promotional header, not gameplay screenshot",
+    "release_status": "In development; release unverified",
+    "app_store_url": null,
+    "visually_inspected": true
+  },
+  {
+    "title": "The Last Signal",
+    "asset": "the-last-signal.webp",
+    "source_library_file_id": "libfile_19534d5509648191b4bb07af2aba42db",
+    "source_file_id": "file_00000000867c822f96a549583df74fd0",
+    "source_path": "/The Last Signal/TheLastSignal_Header_3840x1646.png",
+    "dimensions": [
+      3840,
+      1646
+    ],
+    "crop": "none; full original image copied unchanged",
+    "recommended_display": "Preserve full 3840:1646 aspect ratio. Especially avoid cropping Round and Find Out, whose title and slogan occupy left half.",
+    "kind": "Existing project promotional header, not gameplay screenshot",
+    "release_status": "Submitted for review per user; not verified released",
+    "app_store_url": null,
+    "visually_inspected": true
+  }
+]
